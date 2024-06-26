@@ -1,0 +1,10 @@
+﻿  myRect(int x1, int y1, int x2, int y2, int R, int G, int B).cpp
+C:\Users\Latitude E5470\source\repos\bjewled blitz\bjewled blitz\myRect(int x1, int y1, int x2, int y2, int R, int G, int B).cpp(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Latitude E5470\source\repos\bjewled blitz\bjewled blitz\help.h(47,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+C:\Users\Latitude E5470\source\repos\bjewled blitz\bjewled blitz\help.h(53,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+C:\Users\Latitude E5470\source\repos\bjewled blitz\bjewled blitz\help.h(61,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+C:\Users\Latitude E5470\source\repos\bjewled blitz\bjewled blitz\help.h(68,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+C:\Users\Latitude E5470\source\repos\bjewled blitz\bjewled blitz\help.h(75,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+C:\Users\Latitude E5470\source\repos\bjewled blitz\bjewled blitz\myRect(int x1, int y1, int x2, int y2, int R, int G, int B).cpp(625,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Latitude E5470\source\repos\bjewled blitz\bjewled blitz\myRect(int x1, int y1, int x2, int y2, int R, int G, int B).cpp(1721,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  bjewled blitz.vcxproj -> C:\Users\Latitude E5470\source\repos\bjewled blitz\Debug\bjewled blitz.exe
